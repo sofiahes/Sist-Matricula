@@ -1,0 +1,16 @@
+{
+  "tenant_id": [
+    "UTEC"
+  ],
+  "curso_id": [
+    "cloud"
+  ],
+  "matriculados": [
+    {
+      "numeric": [
+        ">",
+        30
+      ]
+    }
+  ]
+}
